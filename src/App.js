@@ -10,7 +10,7 @@ const App = () => {
         <button className='w3-button w3-black w3-margin-top'>Get In Touch</button>
       </header>
 
-      <div className='w3-container w3-blue w3-center w3-opacity w3-padding-16'>
+      <div className='w3-container w3-teal w3-center w3-opacity w3-padding-16'>
         <h1 className='w3-margin w3-xlarge'>Abdur Rahman</h1>
       </div>
     </div>
